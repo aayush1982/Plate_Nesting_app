@@ -2,10 +2,8 @@ streamlit
 pandas
 numpy
 openpyxl
-rectpack
+plotly
 reportlab
-Pillow
 svglib
 PyPDF2
-tinycss2
-cssselect
+rectpack
