@@ -1,11 +1,11 @@
 streamlit
 pandas
 numpy
-matplotlib
-plotly
 openpyxl
 rectpack
 reportlab
 Pillow
 svglib
 PyPDF2
+tinycss2
+cssselect
