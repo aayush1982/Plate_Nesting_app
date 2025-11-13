@@ -1,0 +1,5 @@
+libfreetype6
+libjpeg-dev
+libpng-dev
+libxml2
+libxslt1.1
