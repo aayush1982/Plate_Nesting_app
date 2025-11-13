@@ -1,7 +1,9 @@
 streamlit
 pandas
 numpy
+matplotlib
 plotly
 openpyxl
+rectpack
 reportlab
 Pillow
