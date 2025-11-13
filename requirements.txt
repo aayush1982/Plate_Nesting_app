@@ -8,3 +8,4 @@ rectpack
 reportlab
 Pillow
 svglib
+PyPDF2
